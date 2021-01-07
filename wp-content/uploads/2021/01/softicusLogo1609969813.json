@@ -1,0 +1,150 @@
+[{
+  "image": {
+    "name": "/home/imagqljr/public_html/imageconvert.org/public/uploads/softicusLogo1609969813.json",
+    "baseName": "softicusLogo.png",
+    "format": "json",
+    "formatDescription": "json",
+    "mimeType": "application/json",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 1394,
+      "height": 396,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 118.11,
+      "y": 118.11
+    },
+    "printSize": {
+      "x": 11.8026,
+      "y": 3.35281
+    },
+    "units": "PixelsPerCentimeter",
+    "type": "TrueColorAlpha",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 1,
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 2208096,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 236.366,
+        "standardDeviation": 10365.1,
+        "kurtosis": 8.47169,
+        "skewness": -3.03947,
+        "entropy": 0.281727
+      }
+    },
+    "channelStatistics": {
+      "Alpha": {
+        "min": 255,
+        "max": 255,
+        "mean": 255,
+        "standardDeviation": 0,
+        "kurtosis": 1.6384e+52,
+        "skewness": 9.375e+35,
+        "entropy": 0
+      },
+      "Red": {
+        "min": 0,
+        "max": 255,
+        "mean": 218.357,
+        "standardDeviation": 20447.4,
+        "kurtosis": 1.83005,
+        "skewness": -1.90074,
+        "entropy": 0.375387
+      },
+      "Green": {
+        "min": 61,
+        "max": 255,
+        "mean": 231.404,
+        "standardDeviation": 12510.2,
+        "kurtosis": 1.40804,
+        "skewness": -1.81059,
+        "entropy": 0.379363
+      },
+      "Blue": {
+        "min": 65,
+        "max": 255,
+        "mean": 240.701,
+        "standardDeviation": 8502.81,
+        "kurtosis": 8.86645,
+        "skewness": -3.00237,
+        "entropy": 0.37216
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 1394,
+      "height": 396,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2021-01-06T21:50:11+00:00",
+      "date:modify": "2021-01-06T21:50:11+00:00",
+      "png:iCCP": "chunk was found",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "6",
+      "png:IHDR.color_type": "6 (RGBA)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "1394, 396",
+      "png:pHYs": "x_res=11811, y_res=11811, units=1",
+      "signature": "20723072f4e3ac547f6bdf41528e1dbe6af356bf34d83393c0dda60b11556630"
+    },
+    "profiles": {
+      "icc": {
+        "length": 6922
+      }
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "552024",
+    "pixelsPerSecond": "14.0836MB",
+    "userTime": "0.050u",
+    "elapsedTime": "0:01.039",
+    "version": "file:///opt/alt/alt-ImageMagick/usr/share/doc/ImageMagick-7/index.html"
+  }
+}
+]
